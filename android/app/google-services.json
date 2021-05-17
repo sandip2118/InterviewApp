@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564245468103",
+    "firebase_url": "https://gruhinee.firebaseio.com",
+    "project_id": "gruhinee",
+    "storage_bucket": "gruhinee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564245468103:android:b9ec12933511f5c99fbfe2",
+        "android_client_info": {
+          "package_name": "com.gruhinee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564245468103-jm3b5vhie8aessgt3hht1pl6utqbnlt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gruhinee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "564245468103-ppk1g4k6hnoes5ui3qfrk88ojgfjnqp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPk-pMgVHUdGVg_4huQ99EHiVY5WU1aAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564245468103-ppk1g4k6hnoes5ui3qfrk88ojgfjnqp5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564245468103-s2ldv0rq5tqijtcu3rvfijfl5f28ur49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Gruhinee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

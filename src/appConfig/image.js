@@ -1,0 +1,42 @@
+export default image = {
+    logo: require("./../assets/images/logo.png"),
+    google: require("./../assets/images/googleIcon.png"),
+    facebook: require("./../assets/images/facebook.png"),
+    user: require("./../assets/images/user.png"),
+    userDark: require("./../assets/images/userDark.png"),
+    heartBeat: require("./../assets/images/heartBeat.png"),
+    bloodPressure: require("./../assets/images/bloodPressure.png"),
+    temperature: require("./../assets/images/temperature.png"),
+    calories: require("./../assets/images/calories.jpg"),
+    doctorDummy: require("./../assets/images/doctorDummy.jpeg"),
+    // ------------------------------------
+    health: require("./../assets/images/health.png"),
+    usersMulti: require("./../assets/images/usersMulti.png"),
+    doctor: require("./../assets/images/doctor.png"),
+    qrScan: require("./../assets/images/qrScan.png"),
+    settings: require("./../assets/images/settings.png"),
+    seeMore: require("./../assets/images/seeMore.png"),
+    help: require("./../assets/images/help.png"),
+    privacy: require("./../assets/images/privacy.png"),
+    logout: require("./../assets/images/logout.png"),
+    // ------------------------------------
+    gender: require("./../assets/images/gender.png"),
+    male1: require("./../assets/images/male1.png"),
+    male2: require("./../assets/images/male2.png"),
+    female1: require("./../assets/images/female1.png"),
+    female2: require("./../assets/images/female2.png"),
+    other1: require("./../assets/images/other1.png"),
+    other2: require("./../assets/images/other2.png"),
+    // ------------------------------------
+    tablet1: require("./../assets/images/tablet1.png"),
+    tablet2: require("./../assets/images/tablet2.png"),
+    tablet3: require("./../assets/images/tablet3.png"),
+    tablet4: require("./../assets/images/tablet4.png"),
+
+
+    dots: require("./../assets/images/dots.png"),
+    pencil: require("./../assets/images/pencil.png"),
+    clock: require("./../assets/images/clock.png"),
+    account: require("./../assets/images/account.png"),
+    notes: require("./../assets/images/notes.png"),
+}
